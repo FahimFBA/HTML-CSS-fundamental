@@ -1,1 +1,1 @@
-# HTML-and-CSS_Pirple
+# <p style="background-color:Tomato;"><b>This repo would act as a fundamental book for HTML and CSS, which would act as a handbook for the beginners, I hope so at least.</b></p>
