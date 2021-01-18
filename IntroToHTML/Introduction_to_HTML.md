@@ -15,7 +15,8 @@ A markup language is a computer language that uses tags to define elements withi
 </details>
 
 ## What does HTML look like?
-- <details>
+
+<details>
 <summary>Show me the answer</summary>
 <br>
 An HTML file consists of text, that is, the words that you want to appear in your document and embedded instructions called HTML tags. The tags give the browser instructions that include formatting, display of images, and hyperlinks. ... For example, an HTML file begins with  &lt;html&gt; and ends with &lt;/html&gt;.
